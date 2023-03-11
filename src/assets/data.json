@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Vessel",
+      "price": 65,
+      "discount": 0,
+      "description": "Elevate your home decor with Vessel! Our beautiful ceramic vessels are the perfect addition to any space – whether it's your kitchen, living room, or office. With its unique design and earthy tones, it will bring a sense of warmth and sophistication to your home. Get ready to bring some harmony into your home with Vessel!",
+      "available": true,
+      "stock": 10,
+      "pictures": "https://images.unsplash.com/photo-1523264067855-7b9941f18ca9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "likes": [],
+      "reviews": [],
+      "tags": [],
+      "published": true
+    },
+    {
+      "name": "Pottery",
+      "price": 55,
+      "discount": 25,
+      "description": "Give your home a touch of elegance with Pottery! Our handcrafted ceramic pieces bring eye-catching beauty and timeless style to any space. With our unique designs, you can decorate your living room, dining room, kitchen, or office with an exquisite range of pottery that will become an instant favorite. Add a touch of sophistication and charm to any space with Pottery!",
+      "available": true,
+      "stock": 10,
+      "pictures": "https://images.unsplash.com/photo-1523976714396-3ee195e3b3a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+    },
+    {
+      "name": "Cups",
+      "price": 45,
+      "discount": 0,
+      "description": "Looking for the perfect cup to enjoy your tea? Cups has got you covered! Our ceramic cups are perfect for holding your favorite tea and feature beautiful designs that will add a touch of elegance to any kitchen. Enjoy your tea in style with Cups - the only ceramic cup you'll ever need!",
+      "available": true,
+      "stock": 10,
+      "pictures": "https://images.unsplash.com/photo-1523976888287-7454b4df44f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+    },
+    {
+      "name": "Dish",
+      "price": 50,
+      "discount": 0,
+      "description": "Get your sweet tooth ready! dish has got you covered with its ceramic-coated dishes made just for dessert food. Enjoy the perfect texture and flavor of your favorite desserts with the help of dish, adding a touch of elegance to your table settings with its beautiful design. Plus, its easy-to-clean material makes it a breeze to maintain. Indulge in a guilt-free treat with dish!",
+      "available": true,
+      "stock": 10,
+      "pictures": "https://images.unsplash.com/photo-1525973779373-015bdf68e579?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80"
+    },
+    {
+      "name": "Jug",
+      "price": 75,
+      "discount": 0,
+      "description": "Add a touch of style to your home with our ceramic jug! Our unique design gives it a timeless look that fits any decor, plus the durable ceramic material ensures it lasts for years. Fill it with fresh flowers, store kitchen staples, or use as a decorative piece - it'll be the perfect addition to any room! So get creative and get your jug today!",
+      "available": true,
+      "stock": 10,
+      "pictures": "https://images.unsplash.com/photo-1523027737707-96c0e1fd54e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+    },
+    {
+      "name": "Mugs",
+      "price": 45,
+      "discount": 15,
+      "description": "Make your morning cup of coffee extra special with our unique ceramic mugs! Our matte mugs are perfect for sipping your favorite warm drinks, while the vibrant colors and designs are sure to make any day brighter. Get ready to start your day off right with mugs!",
+      "available": true,
+      "stock": 10,
+      "pictures": "https://images.unsplash.com/photo-1525972757199-cf2ad7cc4f4b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80"
+    },
+    {
+      "name": "Steps",
+      "price": 85,
+      "discount": 0,
+      "description": "Need to spruce up your home or office? Look no further than Steps Ceramic steps! Our ceramic steps come in a variety of colors and designs, making it easy to create a unique and stylish look for any room. Whether you need a subtle accent or something more bold and eye-catching, Steps has you covered. Add the perfect finishing touch to your space with Steps Ceramic steps today!",
+      "available": true,
+      "stock": 10,
+      "pictures": "https://images.unsplash.com/photo-1523367662635-ec427c441fe6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+    },
+    {
+      "name": "Bottle and two cups",
+      "price": 95,
+      "discount": 0,
+      "description": "Add some extra charm to your space with this beautiful ceramic white set! Whether you're looking for a new addition to your living room, bedroom or kitchen, Bottle and Two Cups is the perfect fit. Crafted with a sleek design, it's the perfect way to bring decorative flair while also adding practicality – an instant conversation starter. Enjoy a cup of tea or coffee with a friend and make every moment special!",
+      "available": true,
+      "stock": 10,
+      "pictures": "https://images.unsplash.com/photo-1525974160448-038dacadcc71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+    },
+    {
+      "name": "Pots",
+      "price": 55,
+      "discount": 0,
+      "description": "Bring some style and convenience to your kitchen with these brown ceramic pots! Crafted from the finest, sturdiest ceramic, these beautiful pots are perfect for keeping your items organized and looking good on any countertop. With their classic design and convenient size, these pots will make it easier to keep everything where it needs to be, so you can focus on cooking and sharing delicious meals with your friends and family.",
+      "available": true,
+      "stock": 10,
+      "pictures": "https://images.unsplash.com/photo-1523028157244-c2827982798b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+    }
+  ]
